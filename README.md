@@ -49,12 +49,12 @@ O dataset simulado permitiu uma análise estatística completa com aplicação d
 - As notas simuladas não seguem uma distribuição normal.
 - Existe uma correlação positiva entre o número de disciplinas cursadas e a nota final.
 
-## Projeto Pronto para a Vizualização
-[Acessar o documento](./projeto_ds_colab.ipynb)
+## Projeto Para a Vizualização
+[Acessar o projeto](./projeto_ds_colab.ipynb)
 
 ##  Relatório Técnico
 O relatório em PDF foi desenvolvido conforme as normas da ABNT e encontra-se disponível no repositório (ou será enviado separadamente).
-[Acessar o documento](./CienDeDadosDocument.pdf)
+[Acessar a documentação](./CienDeDadosDocument.pdf)
 
 ##  Como Executar
 1. Clone o repositório ou baixe os arquivos.

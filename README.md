@@ -3,6 +3,12 @@
 ##  Objetivo
 Este projeto tem como objetivo aplicar, de forma prática, os conceitos estudados na disciplina de Ciência de Dados com Python. Foi realizada uma análise exploratória e descritiva com base em dados simulados, utilizando bibliotecas estatísticas e gráficas da linguagem Python. O tema escolhido foi o **desempenho de alunos simulados**, adaptando o dataset `tips` da biblioteca Seaborn.
 
+## Integrantes do Grupo
+
+- João Victor Machado Pinto
+- Pedro Vieira Cavalciuk
+- Vitor Henrique da Silva Fogaça
+
 ##  Tecnologias e Bibliotecas Utilizadas
 - Python 3.x
 - pandas
@@ -42,6 +48,9 @@ Foram gerados diversos gráficos explicativos como:
 O dataset simulado permitiu uma análise estatística completa com aplicação dos principais conceitos da disciplina. Concluímos que:
 - As notas simuladas não seguem uma distribuição normal.
 - Existe uma correlação positiva entre o número de disciplinas cursadas e a nota final.
+
+## Projeto Pronto para a Vizualização
+[Acessar o documento](./projeto_ds_colab.ipynb)
 
 ##  Relatório Técnico
 O relatório em PDF foi desenvolvido conforme as normas da ABNT e encontra-se disponível no repositório (ou será enviado separadamente).

@@ -1,7 +1,7 @@
-#  Projeto Final: Análise de Dados com Python
+#  Projeto Final: Ciência de Dados com Python
 
 ##  Objetivo
-Este projeto tem como objetivo aplicar, de forma prática, os conceitos estudados na disciplina de Análise de Dados com Python. Foi realizada uma análise exploratória e descritiva com base em dados simulados, utilizando bibliotecas estatísticas e gráficas da linguagem Python. O tema escolhido foi o **desempenho de alunos simulados**, adaptando o dataset `tips` da biblioteca Seaborn.
+Este projeto tem como objetivo aplicar, de forma prática, os conceitos estudados na disciplina de Ciência de Dados com Python. Foi realizada uma análise exploratória e descritiva com base em dados simulados, utilizando bibliotecas estatísticas e gráficas da linguagem Python. O tema escolhido foi o **desempenho de alunos simulados**, adaptando o dataset `tips` da biblioteca Seaborn.
 
 ##  Tecnologias e Bibliotecas Utilizadas
 - Python 3.x
@@ -15,6 +15,7 @@ Este projeto tem como objetivo aplicar, de forma prática, os conceitos estudado
 ```
 projeto_ds_colab.ipynb     # Notebook principal com toda a análise
 README.md                  # Este arquivo
+CienDeDadosDocument.pdf    # Documentação do projeto         
 ```
 
 ##  Base de Dados
@@ -44,10 +45,11 @@ O dataset simulado permitiu uma análise estatística completa com aplicação d
 
 ##  Relatório Técnico
 O relatório em PDF foi desenvolvido conforme as normas da ABNT e encontra-se disponível no repositório (ou será enviado separadamente).
+[Acessar o documento](./CienDeDadosDocument.pdf)
 
 ##  Como Executar
 1. Clone o repositório ou baixe os arquivos.
-2. Execute o notebook `projeto_ds_colab.ipynb` em um ambiente como Google Colab ou Jupyter Notebook.
+2. Execute o notebook `projeto_ds_colab.ipynb` em um ambiente como Google Colab, Visual Studio Code (Necessita do Python instalado no computador) ou Jupyter Notebook.
 3. Certifique-se de ter as bibliotecas instaladas:
 ```bash
 pip install pandas numpy matplotlib seaborn scipy
